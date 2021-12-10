@@ -1,0 +1,202 @@
+/* Samuel Brown 12/10/2021 */
+
+.mountaintwo{
+    background-image: url(../images/Snowy_MTN.jpg);
+}
+.header{
+    width: 98vw;
+    height:300px;
+}
+
+
+.white{
+    color: ivory;
+}
+.centertwo{
+    text-align: center;
+    font-size: 20pt;
+    font-family: 'Merriweather', cursive;
+    color: rgb(36, 97, 148);
+}
+
+body {
+    font-family: 'Merriweather', cursive;
+    text-align: center;
+    
+  }
+  .alignment{
+      padding-left: 200px;
+  }
+  
+  .backgroundimage{
+      background-image: url(../images/bgimage.jpg);
+     
+  }
+  
+  
+  .linkcolor{
+      color: blue;
+      text-align: center;
+      
+  }
+  .linkcolortwo{
+      color:saddlebrown;
+      text-align: center;
+      padding-left: 18%;
+      
+  }
+  
+  .textcolor{
+      color: rgb(236, 159, 59);
+      font-size: 12pt;
+  }
+  .grey{
+      color: rgb(136, 124, 124);
+      font-size: 14pt;
+      text-align: center;
+  }
+  .greytwo{
+      color: rgb(94, 94, 94);
+      font-size: 12pt;
+      padding-left: 25px;
+      text-align: left;
+  }
+  
+  .blue{
+      color: blue;
+      text-align: center;
+      text-emphasis: none;
+  }
+  
+  h2 {
+      
+      font-size: 14pt;
+      text-align: center;
+      color:rgb(67, 139, 139);
+  }
+  
+  .h2color{
+      color:rgb(67, 139, 139);
+  }
+  h3 {
+      font-size: 16pt;
+      text-align: center;
+      color: rgb(132, 125, 179);
+  }
+  .h3color{
+      color:rgb(132, 125, 179);
+  }
+  h4 {
+      font-size: 14pt;
+      text-align: center;
+      color: rgb(151, 61, 151);
+  }
+  .h4color{
+      color:rgb(151, 61, 151);
+  }
+  li {
+      font-size: 12pt;
+      text-align: left;
+      padding-left: 5px;
+      
+      font-weight: normal;
+  }
+  
+  .i{
+      text-align: left;
+      font-size: 12pt;
+      padding-left: 25px; 
+      font-weight: normal;
+      
+  }
+  .unbold{
+      font-weight: normal;
+  }
+  
+  .Resume {
+      font-size: 20pt;
+      font-family: 'Merriweather', cursive;
+      text-align: center;
+  }
+  
+  .left{
+      text-align: left;
+  }
+  
+  .italicize{
+      font-style: normal;
+  }
+  
+  .c2{
+      
+      align-content: center;
+  }
+  .center{
+      text-align: center;
+      font-family: 'Merriweather', cursive;
+  }
+  .centertwo{
+      text-align: center;
+      font-size: 20pt;
+      font-family: 'Merriweather', cursive;
+      color: rgb(36, 97, 148);
+  }
+  .centerthree{
+      color: rgb(177, 105, 11);
+      text-align: center;
+      font-family: 'Merriweather', cursive;
+  }
+  .c4{
+      color: rgb(9, 189, 120);
+      text-align: center;
+      font-family: 'Merriweather', cursive;
+  }
+  .c5{
+      color:rgb(126, 23, 126);
+      text-align: center;
+      font-family: 'Merriweather', cursive;
+  }
+  .c6{
+      color:rgb(158, 80, 43);
+      text-align: center;
+      font-family: 'Merriweather', cursive;
+  }
+  .right{
+      text-align: right;
+  }
+  .right head{
+      text-align: center;
+      margin-top: 10px;
+      color: ivory;
+      float:right;
+  }
+  
+  .left_head{
+      width:250px;
+      text-align:left;
+      margin-top:10px;
+      float:left;
+      color:ivory;
+      font-size: 15pt;
+  }
+  
+  .white{
+      color: ivory;
+  }
+  
+ 
+  .tablbody{
+      display: flex;
+      flex-direction:inherit;
+  }
+  .footer{
+     width:100vw;
+  }
+  
+  .graph{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 75%;
+  }
+ /*
